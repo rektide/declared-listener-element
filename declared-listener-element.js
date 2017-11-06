@@ -1,5 +1,6 @@
 /**
 * An event-listener, reified into a Custom Element.
+* Binds `type` event on the parent node it is attached to, eval's `on` attribute as code.
 */
 class DeclaredListenerElement extends HTMLElement {
 	static get observedAttributes(){ return [ "type", "capture", "once", "passive", "on"]}

@@ -1,0 +1,16 @@
+{
+	"name": "declared-listener-element",
+	"version": "1.0.0",
+	"description": "A Custom Element declaratively representing an Event Listener.",
+	"main": "declared-listener-element.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/declared-listener-element"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "MIT"
+}
